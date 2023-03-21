@@ -5,8 +5,7 @@
 </p>
 
 ## Pasos para crear archivo Bash
--`Paso 1` : crear el archivo bash en el directorio <b>/usr/local/bin</b>, utilizando el siguiente comando <b>nano /usr/local/bin/Nombre-bash.sh</b>, (Nombre-bash es el nombre del archivo)
--`Paso 2` : agregar permisos a dicho archivo con el comando <b> sudo chmod +x /urs/local/bin/Nombre-Bash.sh </b>
+- `Paso 1` : crear el archivo bash en el directorio <b>/usr/local/bin</b>, utilizando el siguiente comando <b>nano /usr/local/bin/Nombre-bash.sh</b>, (Nombre-bash es el nombre del archivo)- `Paso 2` : agregar permisos a dicho archivo con el comando <b> sudo chmod +x /urs/local/bin/Nombre-Bash.sh </b>
 
 En nuestro caso el nombre del archivo se llama <b>ServicioActividad4.sh</b> y la estructura del archivo es la siguiente
 
