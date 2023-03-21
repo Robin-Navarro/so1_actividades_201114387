@@ -47,9 +47,8 @@ WantedBy=multi-user.target
 
 - `Paso 1` : Se debe de validar el estatus del servicio con el comando `sudo systemctl status actividad-4`, donde actividad-4 es el nombre del servicio.
 
-```
 ![Captura desde 2023-03-20 23-15-30](https://user-images.githubusercontent.com/70467966/226524332-3be11993-d410-4d02-84a5-89c972d11026.png)
 
-```
+
 
 
