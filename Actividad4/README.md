@@ -4,7 +4,7 @@
   Esta actividad se muestra la manera en que se crea un archivo bash y este es incluido en un servicio que luego ejecutaremos. Dicho servicio se encuentra en el directorio de systemd, por lo que se explicara brevemente desde la creación del archivo bash hasta llegar a la creación del archivo que contiene el servicio.
 </p>
 
-## :Pasos para crear archivo Bash
+## Pasos para crear archivo Bash
 -`Paso 1` : crear el archivo bash en el directorio <b>/usr/local/bin</b>, utilizando el siguiente comando <b>nano /usr/local/bin/Nombre-bash.sh</b>, (Nombre-bash es el nombre del archivo)
 -`Paso 2` : agregar permisos a dicho archivo con el comando <b> sudo chmod +x /urs/local/bin/Nombre-Bash.sh </b>
 
