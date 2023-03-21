@@ -49,6 +49,9 @@ WantedBy=multi-user.target
 
 ![Captura desde 2023-03-20 23-15-30](https://user-images.githubusercontent.com/70467966/226524332-3be11993-d410-4d02-84a5-89c972d11026.png)
 
+- `Paso 2` : Se activa el servicio con el comando `sudo systemctl enable actuvidad-4`
+- `Paso 3` : Se iniciara el servicio con el comando `sudo systemctl start actividad-4`
+- `Paso 4` : Se validara nuevamente el estado del servicio y en esta ocacion se puede ver la ejecucion del bash
 
-
+![Captura desde 2023-03-20 23-21-18](https://user-images.githubusercontent.com/70467966/226525053-b23fbcad-8707-4ecd-a24f-558aaf924bf3.png)
 
