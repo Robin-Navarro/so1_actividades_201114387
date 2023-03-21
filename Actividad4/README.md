@@ -23,9 +23,8 @@ echo La fecha es : $FECHA
 ```
 
 
-## :Pasos para crear archivo del servicio
--`Paso 1` : validar que el nombre del servicio que crearemos no exista con el comando `sudo systemctl list-unit-files --type=service | grep NombreServicio` si al ejecutarse no aparece nada indica que se puede utilizar dicho nombre, en nuestro caso se llamara `actividad-4
-
+## Pasos para crear archivo del servicio
+- `Paso 1` : validar que el nombre del servicio que crearemos no exista con el comando `sudo systemctl list-unit-files --type=service | grep NombreServicio` si al ejecutarse no aparece nada indica que se puede utilizar dicho nombre, en nuestro caso se llamara `actividad-4`
 - `Paso 2` : Creacion del archivo con el comando `sudo nano actividad-4` en la ruta `/etc/systemd/system/NombreServicio`, la extension del archivo debe ser service, en nuestro ejemplo se crearia de la siguiente manera `sudo nano /etc/systemd/system/actividad-4`
 - `Paso 3` : Luego de crear el archivo se debe de dar permisos al mismo con el siguiente comanto `sudo chmod 777 /etc/systemd/system/actividad-4.service`
 
