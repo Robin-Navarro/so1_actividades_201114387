@@ -11,107 +11,105 @@
 
 ### salida usuario 1
 
-Añadiendo el usuario `usuario1' ...
-Añadiendo el nuevo grupo `usuario1' (1001) ...
-Añadiendo el nuevo usuario `usuario1' (1001) con grupo `usuario1' ...
-Creando el directorio personal `/home/usuario1' ...
-Copiando los ficheros desde `/etc/skel' ...
-Nueva contraseña: 
-CONTRASEÑA INCORRECTA: No se ha proporcionado ninguna contraseña
-Vuelva a escribir la nueva contraseña: 
-No se ha proporcionado ninguna contraseña.
-passwd: Error de manipulación del testigo de autenticación
-passwd: no se ha cambiado la contraseña
-¿Intentar de nuevo? [s/N] n
-Cambiando la información de usuario para usuario1
-Introduzca el nuevo valor, o presione INTRO para el predeterminado
-	Nombre completo []: 
-	Número de habitación []: 
-	Teléfono del trabajo []: 
-	Teléfono de casa []: 
-	Otro []: 
-¿Es correcta la información? [S/n] s
+    > Añadiendo el usuario `usuario1' ...
+    Añadiendo el nuevo grupo `usuario1' (1001) ...
+    Añadiendo el nuevo usuario `usuario1' (1001) con grupo `usuario1' ...
+    Creando el directorio personal `/home/usuario1' ...
+    Copiando los ficheros desde `/etc/skel' ...
+    Nueva contraseña: 
+    CONTRASEÑA INCORRECTA: No se ha proporcionado ninguna contraseña
+    Vuelva a escribir la nueva contraseña: 
+    No se ha proporcionado ninguna contraseña.
+    passwd: Error de manipulación del testigo de autenticación
+    passwd: no se ha cambiado la contraseña
+    ¿Intentar de nuevo? [s/N] n
+    Cambiando la información de usuario para usuario1
+    Introduzca el nuevo valor, o presione INTRO para el predeterminado
+    	Nombre completo []: 
+    	Número de habitación []: 
+    	Teléfono del trabajo []: 
+    	Teléfono de casa []: 
+    	Otro []: 
+    ¿Es correcta la información? [S/n] s
 
 
 ### salida usuario2
 
-Añadiendo el usuario `usuario2' ...
-Añadiendo el nuevo grupo `usuario2' (1002) ...
-Añadiendo el nuevo usuario `usuario2' (1002) con grupo `usuario2' ...
-Creando el directorio personal `/home/usuario2' ...
-Copiando los ficheros desde `/etc/skel' ...
-Nueva contraseña: 
-CONTRASEÑA INCORRECTA: No se ha proporcionado ninguna contraseña
-Vuelva a escribir la nueva contraseña: 
-No se ha proporcionado ninguna contraseña.
-passwd: Error de manipulación del testigo de autenticación
-passwd: no se ha cambiado la contraseña
-¿Intentar de nuevo? [s/N] n
-Cambiando la información de usuario para usuario2
-Introduzca el nuevo valor, o presione INTRO para el predeterminado
-	Nombre completo []: 
-	Número de habitación []: 
-	Teléfono del trabajo []: 
-	Teléfono de casa []: 
-	Otro []: 
-¿Es correcta la información? [S/n] s
+    Añadiendo el usuario `usuario2' ...
+    Añadiendo el nuevo grupo `usuario2' (1002) ...
+    Añadiendo el nuevo usuario `usuario2' (1002) con grupo `usuario2' ...
+    Creando el directorio personal `/home/usuario2' ...
+    Copiando los ficheros desde `/etc/skel' ...
+    Nueva contraseña: 
+    CONTRASEÑA INCORRECTA: No se ha proporcionado ninguna contraseña
+    Vuelva a escribir la nueva contraseña: 
+    No se ha proporcionado ninguna contraseña.
+    passwd: Error de manipulación del testigo de autenticación
+    passwd: no se ha cambiado la contraseña
+    ¿Intentar de nuevo? [s/N] n
+    Cambiando la información de usuario para usuario2
+    Introduzca el nuevo valor, o presione INTRO para el predeterminado
+    	Nombre completo []: 
+    	Número de habitación []: 
+    	Teléfono del trabajo []: 
+    	Teléfono de casa []: 
+    	Otro []: 
+    ¿Es correcta la información? [S/n] s
 
 
 ### salida usuario3
 
-Añadiendo el usuario `usuario3' ...
-Añadiendo el nuevo grupo `usuario3' (1003) ...
-Añadiendo el nuevo usuario `usuario3' (1003) con grupo `usuario3' ...
-Creando el directorio personal `/home/usuario3' ...
-Copiando los ficheros desde `/etc/skel' ...
-Nueva contraseña: 
-CONTRASEÑA INCORRECTA: No se ha proporcionado ninguna contraseña
-Vuelva a escribir la nueva contraseña: 
-No se ha proporcionado ninguna contraseña.
-passwd: Error de manipulación del testigo de autenticación
-passwd: no se ha cambiado la contraseña
-¿Intentar de nuevo? [s/N] n
-Cambiando la información de usuario para usuario3
-Introduzca el nuevo valor, o presione INTRO para el predeterminado
-	Nombre completo []: 
-	Número de habitación []: 
-	Teléfono del trabajo []: 
-	Teléfono de casa []: 
-	Otro []: 
-¿Es correcta la información? [S/n] s
+    Añadiendo el usuario `usuario3' ...
+    Añadiendo el nuevo grupo `usuario3' (1003) ...
+    Añadiendo el nuevo usuario `usuario3' (1003) con grupo `usuario3' ...
+    Creando el directorio personal `/home/usuario3' ...
+    Copiando los ficheros desde `/etc/skel' ...
+    Nueva contraseña: 
+    CONTRASEÑA INCORRECTA: No se ha proporcionado ninguna contraseña
+    Vuelva a escribir la nueva contraseña: 
+    No se ha proporcionado ninguna contraseña.
+    passwd: Error de manipulación del testigo de autenticación
+    passwd: no se ha cambiado la contraseña
+    ¿Intentar de nuevo? [s/N] n
+    Cambiando la información de usuario para usuario3
+    Introduzca el nuevo valor, o presione INTRO para el predeterminado
+    	Nombre completo []: 
+    	Número de habitación []: 
+    	Teléfono del trabajo []: 
+    	Teléfono de casa []: 
+    	Otro []: 
+    ¿Es correcta la información? [S/n] s
 
 
 ### si se revisa los usuarios tenemos lo siguiente
 
-usuario1:x:1001:1001:,,,:/home/usuario1:/bin/bash
-usuario2:x:1002:1002:,,,:/home/usuario2:/bin/bash
-usuario3:x:1003:1003:,,,:/home/usuario3:/bin/bash
-
+    usuario1:x:1001:1001:,,,:/home/usuario1:/bin/bash
+    usuario2:x:1002:1002:,,,:/home/usuario2:/bin/bash
+    usuario3:x:1003:1003:,,,:/home/usuario3:/bin/bash
+    
 
 ### Asignación de contraseñas
 
 ### Cambio de contraseña usuario 1
 
-sudo passwd "usuario1"
-
-### salida
-Nueva contraseña: 
-Vuelva a escribir la nueva contraseña: 
-passwd: contraseña actualizada correctamente
+    comando: sudo passwd "usuario1"
+    salida: Nueva contraseña: 
+    			Vuelva a escribir la nueva contraseña: 
+    			passwd: contraseña actualizada correctamente
 
 
 ### Cambio de contraseña usuario 2
-sudo passwd "usuario2"
-Nueva contraseña: 
-Vuelva a escribir la nueva contraseña: 
-passwd: contraseña actualizada correctamente
+    comando: sudo passwd "usuario2"
+    salida: Nueva contraseña: 
+    			Vuelva a escribir la nueva contraseña: 
+    			passwd: contraseña actualizada correctamente
 
 
 ### Cambio de contraseña usuario 3
-sudo passwd "usuario3"
-Nueva contraseña: 
-Vuelva a escribir la nueva contraseña: 
-passwd: contraseña actualizada correctamente
+    comando: sudo passwd "usuario3"
+    salida: Nueva contraseña: 
+    			Vuelva a escribir la nueva contraseña: 
+    			passwd: contraseña actualizada correctamente
 
 
 ###  Información de Usuarios
